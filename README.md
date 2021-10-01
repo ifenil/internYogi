@@ -2,15 +2,15 @@
 -----------------------------------------------------------------------------
 
 ### Use Below Credentials For Login
-...
+```
 Username - test
 Password - 1234
-...
+```
 ----------------------------------------------------------------------------
 
 ### Login Firebase Database
 
-![Alt Text](https://github.com/ifenil/internYogi/blob/master/internyogi.png)
+![Alt Text](https://github.com/ifenil/internYogi/blob/master/internyogi.png =250x250)
 
 ### FireStore Database
 
@@ -18,7 +18,7 @@ Password - 1234
 
 ## ---------------------------Demo---------------------------------
 
-![Alt Text](https://s9.gifyu.com/images/Untitled-design23aa41ea57b714f2.gif)
+![Alt Text](https://s9.gifyu.com/images/Untitled-design23aa41ea57b714f2.gif =400x650)
 
 
 ## 🥱 Wanna try
