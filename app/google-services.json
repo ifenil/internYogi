@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58173973435",
+    "firebase_url": "https://urban-yogi-1f70a-default-rtdb.firebaseio.com",
+    "project_id": "urban-yogi-1f70a",
+    "storage_bucket": "urban-yogi-1f70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58173973435:android:0083abe0cc5498d2c0da9e",
+        "android_client_info": {
+          "package_name": "com.intern.yogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58173973435-proashq8rigdef50723raocb3q135eli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnbAwwTSPhxjDED6QurcBqA4BrHHBEBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58173973435-proashq8rigdef50723raocb3q135eli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
